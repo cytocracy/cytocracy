@@ -1,5 +1,5 @@
 # Hi, I'm Theo. 
-#### I'm a high school student pursuing a career in computer science. Feel free to reach out :) 
+#### Berkeley EE/CS '28
 
 <!---
 cytocracy/cytocracy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
